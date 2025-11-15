@@ -100,6 +100,8 @@ This is a list of different open-source video games and commercial video games o
 
 - **[Sonic Robo Blast 2](https://www.srb2.org)** - A 3D open-source Sonic the Hedgehog fangame built on Doom. [[source]](https://git.do.srb2.org/STJr/SRB2)
 
+- **[Super Bombinhas](https://store.steampowered.com/app/1553840)** - A retro 2D platformer with a level editor. [[source]](https://github.com/victords/super-bombinhas)
+
 - **Super Mario 64** - A full decompilation of Super Mario 64. [[source]](https://github.com/n64decomp/sm64)
 
 - **[VVVVVV](https://thelettervsixtim.es/)** - [[source]](https://github.com/TerryCavanagh/VVVVVV)
@@ -108,7 +110,13 @@ This is a list of different open-source video games and commercial video games o
 
 - **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
 
+- **[ConnecMan](https://victords.itch.io/connecman)** - A puzzle game about connecting pieces with straight lines. [[source]](https://github.com/victords/connecman)
+
 - **Portal64** - A demake (remake for an older platform) of Portal for the Nintendo 64. [[source]](https://github.com/lambertjamesd/portal64)
+
+- **[SokoAdventure](https://victords.itch.io/sokoadventure)** - A Sokoban-type game with more gameplay variety. [[source]](https://github.com/victords/sokoadventure)
+
+- **[Spheres](https://victords.itch.io/spheres)** - A match-three game with colorful spheres and 3 different game modes. [[source]](https://github.com/victords/spheres)
 
 ## Racing games
 
